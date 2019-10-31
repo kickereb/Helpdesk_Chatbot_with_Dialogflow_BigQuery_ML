@@ -1,0 +1,2 @@
+# Helpdesk_Chatbot_with_Dialogflow_BigQuery_ML
+Wouldn’t it be awesome to have an accurate estimate of how long it will take for tech support to resolve your issue? Here I trained a simple machine learning model for predicting helpdesk response time using BigQuery Machine Learning. I built a simple chatbot using Dialogflow, and integrated with trained BigQuery ML model. The final solution will provide an estimate of response time to users at the moment a request is generated.
